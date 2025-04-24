@@ -4,29 +4,16 @@
 
 Me chamo Felipe Nalepa, tenho 31 anos e sou morador de Curitiba. Atualmente estou cursando Gestão em tecnologia da informção na UNINTER. Sou apaixonado por tecnologia e Quero compartilhar um pouco do meu conhecimento com vocês.
 
+#####  Contatos:
 
-<p align="left">
-    <a href="https://www.instagram.com/devemdev/" target="_blank">
-        <img 
-            alt="Siga no Instagram" 
-            title="Siga no Instagram" 
-            src="https://img.shields.io/badge/Siga%20no-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"
-        />
-    </a> 
-    <a href="https://github.com/Felipenalepa?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Felipenalepa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Felipenalepa?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Felipenalepa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<div > 
+  <a href = "mailto:Felipenalepa43@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/Felipenalepa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/Felipenalepa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ <a href=""></a> 
+
+
+    
 </p>
 
 ---
@@ -149,25 +136,24 @@ Me chamo Felipe Nalepa, tenho 31 anos e sou morador de Curitiba. Atualmente esto
 <br/>
 <br/>
 
-### 📊 Estatísticas
+##
+ 
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanagabriele&layout=compact&hide_border=true&title_color=ff91a4&text_color=00FFFF&bg_color=0d1117" />
+  
+</div>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Felipenalepa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipenalepa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Felipenalepa}/count.svg" /></p> 
+<br>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
+
+
+</div>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
